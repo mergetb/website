@@ -32,3 +32,18 @@ $info: #98d0f9;
 .logo {
     max-width: 200px;
 }
+
+.td-overlay {
+
+    &--dark::after {
+        background-color: rgb(76, 104, 167) !important;
+    }
+
+}
+
+.display-2 {
+    color: #98d0f9 !important;
+}
+
+.text-black { color: #222222 !important; }
+.text-teal { color: #3ba6dd !important; }
