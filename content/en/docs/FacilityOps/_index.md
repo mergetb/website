@@ -1,7 +1,7 @@
 ---
 title: "Facility Operations"
 linkTitle: "Facility Operations"
-weight: 3
+weight: 4
 description: >
     Docs for operating a Merge testbed facility
 ---

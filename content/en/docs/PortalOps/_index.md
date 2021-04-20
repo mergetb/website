@@ -1,7 +1,7 @@
 ---
 title: "Portal Operations"
 linkTitle: "Portal Operations"
-weight: 4
+weight: 3
 description: >
     Docs for operating a Merge portal
 ---
