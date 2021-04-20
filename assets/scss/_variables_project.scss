@@ -4,3 +4,31 @@ Add styles or override variables from the theme here.
 
 */
 
+$primary: #4c68a7;
+$secondary: #ddd;
+$display1-weight: 200;
+$display2-weight: 500;
+$display2-size: 1.55rem;
+$info: #98d0f9;
+
+.text-slogan { 
+    font-size: 1.5rem !important;
+    color: #98d0f9 !important;
+}
+
+.text-news {
+    color: white !important;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.brand-logo {
+    max-height: 75px;
+    max-width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.logo {
+    max-width: 200px;
+}
